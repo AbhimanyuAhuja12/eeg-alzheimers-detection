@@ -2,8 +2,11 @@
 
 This repository contains the code for classifying neurodegenerative diseases (NDDs) from EEG signals using Convolutional Neural Networks (CNNs). The code is written in Python and uses the PyTorch library. The dataset used in this project is the [A dataset of EEG recordings from: Alzheimer's disease, Frontotemporal dementia and Healthy subjects](https://openneuro.org/datasets/ds004504/versions/1.0.7) from OpenNeuro.
 
+<<<<<<< HEAD
 ## Workflow
 ![workflow](https://github.com/Leofierus/eeg-alzheimers-detection/assets/51908556/0125401f-e499-4d79-8d14-b1095d8d5176)
+=======
+>>>>>>> 7e43e09300735ab7e1a1770188607ec8185fc5bc
 
 ## Requirements
 - Python 3.6+
@@ -38,7 +41,11 @@ Folders in the repository:
 ## Sample colab for testing:
 The following colab notebook can be used to test the latest model: 
 
+<<<<<<< HEAD
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15RNs-woLNx1eir-kVnEldIABBs1xnxHU?usp=sharing)
+=======
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MtLaPBgMzTZDo-QMCukoJtmQsAdaDrws)
+>>>>>>> 7e43e09300735ab7e1a1770188607ec8185fc5bc
 
 ## Todo
 README and code will be updated if needed.
