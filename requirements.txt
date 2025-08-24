@@ -8,3 +8,4 @@ scikit-learn
 matplotlib
 mne
 seaborn
+torchviz
